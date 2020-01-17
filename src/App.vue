@@ -5,6 +5,7 @@
         <p id="title">{{ msg }}</p>
         <p>Developer: Jicheng Lu</p>
         <p id="hint">Instruction: Please select the number of brackets.</p>
+        <p id="hint">Note: You can download the game result as JSON file.</p>
       </b-col>
     </b-row>
     <br>
